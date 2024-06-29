@@ -21,7 +21,7 @@ After completing your purchase, check your email for a confirmation containing t
 5. Install the Software
 Locate the downloaded installer file on your computer and run it. Follow the on-screen prompts to install AutoTune Bundle Pro X 2024. Adjust system settings as needed to ensure a smooth installation process.
 
-6. Activate Your License
+https://soundbanks.io/product/muze-eclipse/6. Activate Your License
 Upon successful installation, launch AutoTune Bundle Pro X 2024. Enter the activation code provided in your confirmation email to unlock the full capabilities of the software.
 
 7. Explore and Customize
